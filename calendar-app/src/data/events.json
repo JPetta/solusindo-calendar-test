@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Event 1",
+      "time": "10:00 AM",
+      "invitees": "user1@example.com",
+      "date": 1,
+      "month": 6,
+      "year": 2023,
+      "color": "#ff0000"
+    },
+    {
+      "id": 2,
+      "name": "Event 2",
+      "time": "2:00 PM",
+      "invitees": "user2@example.com",
+      "date": 1,
+      "month": 6,
+      "year": 2023,
+      "color": "#00ff00"
+    },
+    {
+      "id": 3,
+      "name": "Event 3",
+      "time": "6:00 PM",
+      "invitees": "user3@example.com",
+      "date": 2,
+      "month": 6,
+      "year": 2023,
+      "color": "#0000ff"
+    }
+  ]
